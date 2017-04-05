@@ -2,11 +2,11 @@
 <resources>
 
     <!--uCrop Activity-->
-    <color name="ucrop_color_toolbar">#3b87ee</color>
-    <color name="ucrop_color_statusbar">#3b87ee</color>
+    <color name="ucrop_color_toolbar">#0366c1</color>
+    <color name="ucrop_color_statusbar">#0366c1</color>
     <color name="ucrop_color_toolbar_widget">#fff</color>
     <color name="ucrop_color_widget">#000</color>
-    <color name="ucrop_color_widget_active">#3b87ee</color>
+    <color name="ucrop_color_widget_active">#0366c1</color>
     <color name="ucrop_color_widget_background">#fff</color>
     <color name="ucrop_color_widget_text">#000</color>
     <color name="ucrop_color_progress_wheel_line">#808080</color>
